@@ -14,7 +14,7 @@ Inteliegencia Artificial
       - Digitos
 
 - ShapeDetection
-    - Implmentación de [OpenIMAJ](http://openimaj.org/) para deteccion de figuras geometricas 
+    - Implementación de [OpenIMAJ](http://openimaj.org/) para deteccion de figuras geométricas 
       - Cuadro
       - Círculo
       - Pentágono
