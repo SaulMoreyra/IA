@@ -1,5 +1,5 @@
 # IA
-Inteliegencia Artificial
+Inteligencia Artificial
 
 - Métodos de busqueda
     - Problema del arriero anchura y profundidad ([Referencia](https://users.dcc.uchile.cl/~abassi/52a/material/c5.html))
@@ -14,7 +14,7 @@ Inteliegencia Artificial
       - Digitos
 
 - ShapeDetection
-    - Implementación de [OpenIMAJ](http://openimaj.org/) para deteccion de figuras geométricas 
+    - Implementación de [OpenIMAJ](http://openimaj.org/) para detección de figuras geométricas 
       - Cuadro
       - Círculo
       - Pentágono
